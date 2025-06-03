@@ -32,7 +32,7 @@ This guide outlines how to develop a modular client-server architecture for two 
      - Server performs object detection and responds with detected labels and bounding boxes.
 
 4. ✅ Once both modules are working independently:
-   - Continue submitting your **remaining program files** to ChatGPT.
+   - Continue submitting your **remaining program files** to Copilot.
    - Copilot will extend and refine the client-server architecture as needed.
 
 ---
