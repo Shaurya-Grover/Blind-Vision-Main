@@ -8,7 +8,7 @@ cap = cv2.VideoCapture(0)
 cap.set(3, 1280)
 cap.set(4, 720)
  
-model = YOLO("yolo11n.pt") #Initialise your weights name here change if you have yolov11l.pt
+model = YOLO("yolo11l.pt") #Initialise your weights name here change if you have yolov11l.pt
  
 classNames = ["person", "bicycle", "car", "motorbike", "aeroplane", "bus", "train", "truck", "boat",
               "traffic light", "fire hydrant", "stop sign", "parking meter", "bench", "bird", "cat",
