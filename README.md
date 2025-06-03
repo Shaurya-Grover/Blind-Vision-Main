@@ -37,22 +37,3 @@ This guide outlines how to develop a modular client-server architecture for two 
 
 ---
 
-## 📁 Project Structure (Expected)
-
-```bash
-project-root/
-│
-├── client/
-│   ├── image_caption_client.py
-│   └── object_detection_client.py
-│
-├── server/
-│   ├── image_caption_server.py
-│   └── object_detection_server.py
-│
-├── models/
-│   └── yolov11l.pt
-│
-├── image_captioning.py
-├── object_detection.py
-└── README.md
