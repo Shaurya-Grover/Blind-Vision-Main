@@ -15,11 +15,11 @@ This guide outlines how to develop a modular client-server architecture for two 
 
 ## 📌 Workflow Overview
 
-1. **Start by providing the following scripts to ChatGPT**:
+1. **Start by providing the following scripts to Copilot(as it has alreafy worked on our server building before)**:
    - `image_captioning.py`
    - `object_detection.py`
 
-2. **Prompt ChatGPT to design both**:
+2. **Prompt Copilot to design both**:
    - **Client-side code**: Responsible for capturing image(s) or video stream and sending them to the server.
    - **Server-side code**: Responsible for processing the incoming data using AI models (captioning or detection) and returning results.
 
@@ -33,7 +33,7 @@ This guide outlines how to develop a modular client-server architecture for two 
 
 4. ✅ Once both modules are working independently:
    - Continue submitting your **remaining program files** to ChatGPT.
-   - ChatGPT will extend and refine the client-server architecture as needed.
+   - Copilot will extend and refine the client-server architecture as needed.
 
 ---
 
